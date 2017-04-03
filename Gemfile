@@ -26,6 +26,7 @@ gem 'puma', '~> 3.0'
 # gem 'rack-cors'
 
 gem 'active_model_serializers', '~> 0.10.5'
+gem 'rack-cors', '~> 0.4.1'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
